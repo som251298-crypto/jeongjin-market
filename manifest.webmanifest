@@ -1,0 +1,16 @@
+{
+  "id": "./",
+  "name": "서울정진학교 정진시장",
+  "short_name": "정진시장",
+  "description": "서울정진학교 정진시장 상품 선택 및 장바구니 앱",
+  "lang": "ko",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#fff8f1",
+  "theme_color": "#ffd9d9",
+  "icons": [
+    {"src":"./icons/icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},
+    {"src":"./icons/icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  ]
+}
